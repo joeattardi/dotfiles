@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": : true,
+    "explorer.openEditors.visible": 0,
+    "editor.tabSize": 2
+}
