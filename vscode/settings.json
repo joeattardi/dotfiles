@@ -1,9 +1,27 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Dracula",
     "editor.fontFamily": "'Cascadia Code'",
-    "editor.fontSize": 16,
     "editor.fontLigatures": true,
-    "explorer.openEditors.visible": 0,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "editor.fontSize": 15,
+    "editor.fontWeight": 350,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Night Owl",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.singleQuote": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "all",
+    "redhat.telemetry.enabled": false,
+    "editor.inlineSuggest.enabled": true,
+    "terminal.integrated.fontFamily": "'Cascadia Code'",
+    "terminal.integrated.fontSize": 15
 }
